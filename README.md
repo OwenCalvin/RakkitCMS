@@ -1,2 +1,2 @@
 # RakkitCMS
-The Rakkit front end
+The Rakkit administration tool
